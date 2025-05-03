@@ -1,5 +1,6 @@
 # qb-input
-https://github.com/aboahmad-dev/qb-input/blob/0e4f84998584a94ae6de274db0ca2824c56b93d5/image.png
+
+![image_alt](https://github.com/aboahmad-dev/qb-input/blob/0e4f84998584a94ae6de274db0ca2824c56b93d5/image.png)
 
 
 NUI input system for QBCore
